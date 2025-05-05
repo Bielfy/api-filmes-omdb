@@ -1,4 +1,4 @@
-# API FILMES OMDB
+# CONSULTA FILMES
 
 Este projeto tem como objetivo integrar a API da OMDB para pesquisar filmes e salvar informações relevantes em um arquivo `.json` chamado `Filmes.json`. As informações coletadas incluem o nome do filme, ano de lançamento e duração em minutos.
 
